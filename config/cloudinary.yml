@@ -1,0 +1,19 @@
+---
+development:
+  cloud_name: dmzkwke97
+  api_key: '982256458586345'
+  api_secret: jkrp0-QFras9Hd_zUL2TYM715n4
+  enhance_image_tag: true
+  static_file_support: false
+production:
+  cloud_name: dmzkwke97
+  api_key: '982256458586345'
+  api_secret: jkrp0-QFras9Hd_zUL2TYM715n4
+  enhance_image_tag: true
+  static_file_support: true
+test:
+  cloud_name: dmzkwke97
+  api_key: '982256458586345'
+  api_secret: jkrp0-QFras9Hd_zUL2TYM715n4
+  enhance_image_tag: true
+  static_file_support: false
